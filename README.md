@@ -1,5 +1,4 @@
-markdown 
-CopiarEditar 
+
 # Mi hoja de vida 
 **Nombre completo:** Cristian Esteban Bejarano Sorza  
 **Correo electrónico:** cristian.bejarano-s@uniminuto.edu.co
